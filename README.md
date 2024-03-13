@@ -1,7 +1,7 @@
-TOP 5 SPORT 
+# Top 5 Sports
 
-Run
-Cycle
-Swim
-Cardio
-Run again
+1. Run
+2. Cycle
+3. Swim
+4. Cardio
+5. Run again
